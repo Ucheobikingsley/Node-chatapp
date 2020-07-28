@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "chat-app",
+			"path": "."
+		},
+		{
+			"name": "public",
+			"path": "..\\Desktop\\public"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "chat-app",
+		"liveServer.settings.port": 5501
+	}
+}
